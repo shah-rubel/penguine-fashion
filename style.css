@@ -1,0 +1,92 @@
+.logo{
+    width: 250px;
+    margin-left: 25%;
+    
+}
+.pang-nav{
+    margin-left: 40%;
+    font-size: 20px;
+    color: black;
+    font-weight:600;
+}
+.btn-buy{
+    background-color: #9eb73e;
+    color: white;
+    font-weight: 600;
+}
+.first-nav{
+    margin-left: 30%;
+}
+.header-photo img{
+    width: 100%;
+}
+.btn-buy img{
+
+    width: 30px;
+}
+.head-section{
+    background-color: rgba(255,251,240,1);
+}
+.pangu-card{
+    border: 0;
+   
+    
+}
+.pangu-card .img-body img{
+    width: 300px;
+    height: 300px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 10%;
+    
+}
+.img-body{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: lightgray;
+    border-radius: 3%;
+}
+.sell-section{
+    margin-top: 15%;
+}
+.sell{
+    border-radius: 1.5em;
+}
+.sell img{
+    width: 80px;
+}
+.sell .sell-body{
+    margin-left: 10%;
+}
+.social-photo img{
+    width: 200px;
+    /* margin-left: 25%; */
+}
+.social-photo{
+    /* margin-top: -4%; */
+    padding: 2%;
+}
+.contact-section{
+    
+    margin-top: 10%;
+}
+.contact-body{
+    height: 300px;
+    background-color:rgba(255,251,240,1) ;
+    border-radius: 2em;
+}
+.contact-body h2{
+    padding: 3%;
+    color: #9eb73e;
+    font-weight: 700;
+}
+.contact-body h4{
+    color: rgb(132, 146, 9);
+}
+.contact-body h6{
+    color: gray;
+}
+.contact-body p{
+    color: gold;
+}
